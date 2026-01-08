@@ -1,0 +1,7 @@
+{
+  "name": "(南京爬山小助手)",
+  "description": "A vibrant and fun companion app for hiking enthusiasts in Nanjing. Explore local peaks, get AI-powered gear advice based on weather, and track your climbing journey.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
